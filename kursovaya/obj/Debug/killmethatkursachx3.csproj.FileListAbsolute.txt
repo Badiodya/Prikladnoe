@@ -1,0 +1,73 @@
+c:\users\авто\documents\visual studio 2015\Projects\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe.config
+c:\users\авто\documents\visual studio 2015\Projects\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csprojResolveAssemblyReference.cache
+c:\users\авто\documents\visual studio 2015\Projects\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.DrugsForm.resources
+c:\users\авто\documents\visual studio 2015\Projects\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.Properties.Resources.resources
+c:\users\авто\documents\visual studio 2015\Projects\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csproj.GenerateResource.Cache
+c:\users\авто\documents\visual studio 2015\Projects\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe
+c:\users\авто\documents\visual studio 2015\Projects\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.pdb
+c:\users\авто\documents\visual studio 2015\Projects\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.exe
+c:\users\авто\documents\visual studio 2015\Projects\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.pdb
+c:\users\авто\documents\visual studio 2015\Projects\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.SecondDrugForm.resources
+H:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe.config
+H:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe
+H:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.pdb
+H:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csprojAssemblyReference.cache
+H:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.DrugsForm.resources
+H:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.Properties.Resources.resources
+H:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.SecondDrugForm.resources
+H:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csproj.GenerateResource.cache
+H:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csproj.CoreCompileInputs.cache
+H:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.exe
+H:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.pdb
+E:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe.config
+E:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.exe
+E:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.pdb
+E:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe
+E:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.pdb
+E:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csprojResolveAssemblyReference.cache
+E:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.DrugsForm.resources
+E:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.Properties.Resources.resources
+E:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.SecondDrugForm.resources
+E:\6 семестр\прикладное программирование\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csproj.GenerateResource.Cache
+E:\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe.config
+E:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.exe
+E:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.pdb
+E:\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe
+E:\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.pdb
+E:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csprojResolveAssemblyReference.cache
+E:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.Properties.Resources.resources
+E:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csproj.GenerateResource.Cache
+G:\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe.config
+G:\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe
+G:\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.pdb
+G:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csprojAssemblyReference.cache
+G:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.DrugsForm.resources
+G:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.Properties.Resources.resources
+G:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.SecondDrugForm.resources
+G:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csproj.GenerateResource.cache
+G:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csproj.CoreCompileInputs.cache
+G:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.exe
+G:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.pdb
+D:\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe.config
+D:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.exe
+D:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.pdb
+D:\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe
+D:\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.pdb
+D:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csprojResolveAssemblyReference.cache
+D:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.DrugsForm.resources
+D:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.Properties.Resources.resources
+D:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.SecondDrugForm.resources
+D:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csproj.GenerateResource.Cache
+E:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.Ff1.resources
+E:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.fr2.resources
+H:\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe.config
+H:\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.exe
+H:\killmethatkursachx3\killmethatkursachx3\bin\Debug\killmethatkursachx3.pdb
+H:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csprojAssemblyReference.cache
+H:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.Ff1.resources
+H:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.Properties.Resources.resources
+H:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.fr2.resources
+H:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csproj.GenerateResource.cache
+H:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.csproj.CoreCompileInputs.cache
+H:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.exe
+H:\killmethatkursachx3\killmethatkursachx3\obj\Debug\killmethatkursachx3.pdb
